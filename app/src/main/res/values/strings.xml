@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MadLibsHomeworkAttempt1</string>
+    <string name="name">Enter Your Character\'s Name:</string>
+    <string name="nameHint">Name</string>
+    <string name="enter">Enter</string>
+    <string name="color">Enter a Color:</string>
+    <string name="colorHint">Color</string>
+    <string name="pastry">Enter a Delicious Pastry:</string>
+    <string name="pastryHint">Pastry</string>
+    <string name="animal">Enter An Animal:</string>
+    <string name="animalHint">Animal</string>
+    <string name="transportation">Enter a form of Public Transportation:</string>
+    <string name="transportationHint">Transportation</string>
+    <string name="tool">Enter a Magic Tool:</string>
+    <string name="toolHint">Tool</string>
+    <string name="reward">Enter a Type of Reward:</string>
+    <string name="rewardHint">Reward</string>
+</resources>
